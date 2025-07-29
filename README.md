@@ -4,11 +4,9 @@ This project is part of a deep learning assignment where we were tasked to build
 ## 🎯 Project Objective
 The main goal is to create a model that can:
 
-Learn to remove noise from images
-
-Reconstruct the clean version of a noisy input
-
-Apply this approach to real-world data, such as cleaning noisy camera outputs 🧠📷
+- Learn to remove noise from images
+- Reconstruct the clean version of a noisy input
+- Apply this approach to real-world data, such as cleaning noisy camera outputs 🧠📷
 
 In real-life applications, camera sensors often introduce unwanted noise in captured images. This project simulates that scenario and builds a tool that learns to recover clean data.
 
